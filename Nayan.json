@@ -9,8 +9,8 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "!",
+  "BOTNAME": "neha-bot",
+  "PREFIX": ".",
   "OPERATOR": [
     "",
     "61558095808001"
